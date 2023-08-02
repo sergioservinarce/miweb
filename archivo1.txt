@@ -1,2 +1,4 @@
 primer programa
 otra linea de programa
+
+ajustando el archivo
